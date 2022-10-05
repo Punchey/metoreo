@@ -1,3 +1,6 @@
+Description:
+The Metoreo is a meta-Oreo comprised of a single vanilla Oreo which serves as the "filling", flanked by two halves of two chcolate (original) Oreos which serve as the "cookies" which sandwich the central vanilla Oreo.
+
 Dependencies:
 
 2x original (chocolate) Oreos
